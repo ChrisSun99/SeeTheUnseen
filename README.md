@@ -8,11 +8,9 @@ An Android app using Cloud OCR to assist text reading tasks for users with visio
     * Description
     * Reading
     * Other
-
-![](user_interface.png)
-
+    
 ## How it works (client-side)
-![](recognition_result.png)
+![](user_interface.png) ![](recognition_result.png)
 
 * **First page**
     * Camera capture button
