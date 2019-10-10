@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/61373cf8385b490471324cc1f24df1aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/b06643ee6b0ea6ee4316329c0315f343/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/dda53036ac4e56ad857253e93eef6e96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/95dd576c23deed80c2182a4f183301f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cb4c4b8c702a463b93b4c87b5b2fef3a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/37b81e13908bc1ce5b7a691bd6fb9f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/87b1603aebe4d332b93d592ffad915d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b49ae8305989d85d4e8f2773dde6324a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ce1421a89aab3e6ad796faf86fbd1c11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8104c7751cb4d9ba371d0d8aecaa8dbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8244badc34cc28db325821df96d0b86e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/01a31059c688cd54769e7f33f1a1f5c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9092a168eb99b51cf29a7046f93f936f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8eba06e8343289edcf6b3376012e5016/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bac32c4b71f0b889566e63cf64cc50fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/757c533b6cb02dc9b270f9cb0257de22/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887adad93525d40d9acc95bd3639448f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fb34b14f43d239bb3a446b493b1cdaa4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e0472114149c29ad35cfa9541d29d82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/74c1330f342eca339d2d3355db2662ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/808bab4597ca61044c6a98d30a0e0c81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/df75dd0321c26e15c828e3f8d02868b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7267fb9a969413dc0d9019e4a2b381a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b0a2c62c7cfdf8240e7d92b498b43294/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fcd23c0de60ffcee5270c679fedaa881/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2033ce87d509d9464844bc7b74ac639a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887299f891745556df99b555f98f9861/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:11:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:12:5-91
+	android:required
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:12:64-88
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:12:19-63
+application
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:14:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/b06643ee6b0ea6ee4316329c0315f343/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/b06643ee6b0ea6ee4316329c0315f343/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/757c533b6cb02dc9b270f9cb0257de22/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/757c533b6cb02dc9b270f9cb0257de22/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887adad93525d40d9acc95bd3639448f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887adad93525d40d9acc95bd3639448f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/757c533b6cb02dc9b270f9cb0257de22/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:15:9-45
+	android:usesCleartextTraffic
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:16:9-44
+activity#com.example.vizassist.MainActivity
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:22:13-71
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/61373cf8385b490471324cc1f24df1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/61373cf8385b490471324cc1f24df1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/b06643ee6b0ea6ee4316329c0315f343/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/b06643ee6b0ea6ee4316329c0315f343/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/dda53036ac4e56ad857253e93eef6e96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/dda53036ac4e56ad857253e93eef6e96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/95dd576c23deed80c2182a4f183301f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/95dd576c23deed80c2182a4f183301f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cb4c4b8c702a463b93b4c87b5b2fef3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cb4c4b8c702a463b93b4c87b5b2fef3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/37b81e13908bc1ce5b7a691bd6fb9f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/37b81e13908bc1ce5b7a691bd6fb9f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/87b1603aebe4d332b93d592ffad915d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/87b1603aebe4d332b93d592ffad915d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b49ae8305989d85d4e8f2773dde6324a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b49ae8305989d85d4e8f2773dde6324a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ce1421a89aab3e6ad796faf86fbd1c11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ce1421a89aab3e6ad796faf86fbd1c11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8104c7751cb4d9ba371d0d8aecaa8dbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8104c7751cb4d9ba371d0d8aecaa8dbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8244badc34cc28db325821df96d0b86e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8244badc34cc28db325821df96d0b86e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/01a31059c688cd54769e7f33f1a1f5c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/01a31059c688cd54769e7f33f1a1f5c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9092a168eb99b51cf29a7046f93f936f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9092a168eb99b51cf29a7046f93f936f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8eba06e8343289edcf6b3376012e5016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8eba06e8343289edcf6b3376012e5016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bac32c4b71f0b889566e63cf64cc50fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bac32c4b71f0b889566e63cf64cc50fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/757c533b6cb02dc9b270f9cb0257de22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/757c533b6cb02dc9b270f9cb0257de22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887adad93525d40d9acc95bd3639448f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887adad93525d40d9acc95bd3639448f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fb34b14f43d239bb3a446b493b1cdaa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fb34b14f43d239bb3a446b493b1cdaa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e0472114149c29ad35cfa9541d29d82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e0472114149c29ad35cfa9541d29d82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/74c1330f342eca339d2d3355db2662ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/74c1330f342eca339d2d3355db2662ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/808bab4597ca61044c6a98d30a0e0c81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/808bab4597ca61044c6a98d30a0e0c81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/df75dd0321c26e15c828e3f8d02868b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/df75dd0321c26e15c828e3f8d02868b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7267fb9a969413dc0d9019e4a2b381a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7267fb9a969413dc0d9019e4a2b381a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b0a2c62c7cfdf8240e7d92b498b43294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b0a2c62c7cfdf8240e7d92b498b43294/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fcd23c0de60ffcee5270c679fedaa881/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fcd23c0de60ffcee5270c679fedaa881/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2033ce87d509d9464844bc7b74ac639a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2033ce87d509d9464844bc7b74ac639a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887299f891745556df99b555f98f9861/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/887299f891745556df99b555f98f9861/AndroidManifest.xml:20:5-44
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/VizAssist/app/src/main/AndroidManifest.xml
