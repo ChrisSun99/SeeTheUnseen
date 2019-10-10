@@ -1,16 +1,36 @@
 # VizAssist
 An Android app using Cloud OCR to assist text reading tasks for users with vision impairment.
 
-After opening the app, you'll see this page. 
-This page consists with:
-* Camera caption button
-* Image gallery button
-* Text and image placeholder
 
-![Image of app](user_interface.png)
+### The purpose
+To increase accessibility.
+* Blind people are facing many visual challenges everyday, includes:
+    * Identification
+    * Description
+    * Reading
+    * Other
 
-This is a demo of what users can see. 
-* Image captured or selected 
-* Result or error message
+![](user_interface.png)
 
-![Image of app](recognition_result.png)
+## How it work (client-side)
+![](recognition_result.png)
+
+* **First page**
+    * Camera capture button
+    * Image gallery button (upload from local)
+    * Test and image placeholder
+
+* **Result page**
+    * Image captured or selected
+    * Result and error message
+
+* **What happen in between**
+    * Image data accessing and packaging
+    * OCR server query with image data
+    * UI update with server query result
+    
+
+
+
+
+
