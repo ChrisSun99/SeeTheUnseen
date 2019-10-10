@@ -8,7 +8,10 @@ An Android app using Cloud OCR to assist text reading tasks for users with visio
     * Description
     * Reading
     * Other
-    
+* I built this app to help them identify surrounding text messages easily and "see the unseen"!
+![](challenges.png) 
+
+
 ## How it works (client-side)
 First Page                 |  Result Page
 :-------------------------:|:-------------------------:
