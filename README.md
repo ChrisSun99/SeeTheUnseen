@@ -28,9 +28,8 @@ To increase accessibility.
     * Image data accessing and packaging
     * OCR server query with image data
     * UI update with server query result
-    
 
-
-
-
+## How it work (server-side)
+* Utilize an **IaaS** service model in Google Compute Engine
+* build an docker container with Tomcat image to run our server-side application in GCE Virtual Machine
 
