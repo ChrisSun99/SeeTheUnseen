@@ -10,7 +10,7 @@ An Android app using Cloud OCR to assist text reading tasks for users with visio
     * Other
     
 ## How it works (client-side)
-Solarized dark             |  Solarized Ocean
+First Page                 |  Result Page
 :-------------------------:|:-------------------------:
 ![](user_interface.png)  |  ![](recognition_result.png)
 
